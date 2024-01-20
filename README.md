@@ -1,6 +1,7 @@
 <h1> Restart - January 20, 2024 </h1>
 I am getting back to this project.  The project is a website for my parent's business.
 Goals for this project...
+
 - Menu Page, displaying prices of different food items
 - Gallery Page, different pictures of the restaurant and food items
 - Contact Page, contact information and the location of the business
