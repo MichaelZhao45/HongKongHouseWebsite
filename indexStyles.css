@@ -1,0 +1,24 @@
+.header-row img {
+    display: flex;
+}
+
+
+.nav-list {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #07264e;  
+    margin: 0;  
+    padding: 3rem;
+}
+
+
+.nav-item {
+    display: flex;
+    color: white;
+    margin: 2rem;   
+    font-size: large;
+}
+.nav-item a {
+    text-decoration: none;
+    color: white;
+}
