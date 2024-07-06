@@ -19,3 +19,9 @@ As for items that I have done...
 - Banner placement and dimensions
 
 Just a short update, will be keeping a log of my activities in this README to look back if I need to.  Will probably not update this every single time I work on this project, only when I've hit a major milestone.
+
+<h1> End of Project </h1>
+
+Came back for the summer and turns out my parents don't need a website right now...
+
+They are already business enough as it is, so they told me the website would just make them busier.
